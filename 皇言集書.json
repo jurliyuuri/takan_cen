@@ -443,6 +443,395 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 19,
+      "form" : "cuk-u"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "来く" ]
+    }, {
+      "title" : "用言",
+      "forms" : [ "来る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "sak2.pk\nsakika.ar\nsrakkq.ln\ncákíkúḷ.bt\ncákíkaúḷ.bt\nsáka.bt\nsakká.bt\nrakkúḷ.bt"
+    } ],
+    "variations" : [ {
+      "title" : "終止形",
+      "form" : "cuku"
+    }, {
+      "title" : "連体形",
+      "form" : "cuka"
+    }, {
+      "title" : "連用形",
+      "form" : "cuke"
+    }, {
+      "title" : "命令形",
+      "form" : "cuki"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 20,
+      "form" : "co"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "上" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "上" ]
+    }, {
+      "title" : "用言",
+      "forms" : [ "(-luで)上げる", "上がる" ]
+    }, {
+      "title" : "助詞",
+      "forms" : [ "～させていただく" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "sau2.pk\nsau.ar\nsrau.ln"
+    } ],
+    "variations" : [ {
+      "title" : "終止形",
+      "form" : "colu"
+    }, {
+      "title" : "連体形",
+      "form" : "cola"
+    }, {
+      "title" : "連用形",
+      "form" : "cole"
+    }, {
+      "title" : "命令形",
+      "form" : "coci"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 21,
+      "form" : "com-u"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "積む" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "(-aで)堤" ]
+    }, {
+      "title" : "用言",
+      "forms" : [ "積む" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "xom1.pk\nshomu.ar\nsljoomq.ln\nṣomúl.bt\nṣoma.bt\nṣomaúḷ.bt"
+    } ],
+    "variations" : [ {
+      "title" : "終止形",
+      "form" : "comu"
+    }, {
+      "title" : "連体形",
+      "form" : "coma"
+    }, {
+      "title" : "連用形",
+      "form" : "come"
+    }, {
+      "title" : "命令形",
+      "form" : "comi"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 22,
+      "form" : "cosa-lu"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "穏る" ]
+    }, {
+      "title" : "用言",
+      "forms" : [ "穏やかである" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "shousa.ar"
+    } ],
+    "variations" : [ {
+      "title" : "終止形",
+      "form" : "cosalu"
+    }, {
+      "title" : "連体形",
+      "form" : "cosala"
+    }, {
+      "title" : "連用形",
+      "form" : "cosale"
+    }, {
+      "title" : "命令形",
+      "form" : "cosaci"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 23,
+      "form" : "cu"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "何", "孰" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "どれ", "何", "なに" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "susi.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 24,
+      "form" : "cuka"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "人" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "人" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "cuk2.pk\nasuka.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 25,
+      "form" : "cuna"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "五" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "五", "5" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "slqna.ln\nsuna.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 26,
+      "form" : "em-u"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "在む" ]
+    }, {
+      "title" : "助詞",
+      "forms" : [ "～している" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "hemúl.bt\nhem.bt\naima.ar\naimq.ln\naim2.pk"
+    } ],
+    "variations" : [ {
+      "title" : "終止形",
+      "form" : "emu"
+    }, {
+      "title" : "連体形",
+      "form" : "ema"
+    }, {
+      "title" : "連用形",
+      "form" : "eme"
+    }, {
+      "title" : "命令形",
+      "form" : "emi"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 27,
+      "form" : "ema-lu"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "在る" ]
+    }, {
+      "title" : "用言",
+      "forms" : [ "在る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "hemúl.bt\nhem.bt\naima.ar\naimq.ln\naim2.pk"
+    } ],
+    "variations" : [ {
+      "title" : "終止形",
+      "form" : "emalu"
+    }, {
+      "title" : "連体形",
+      "form" : "emala"
+    }, {
+      "title" : "連用形",
+      "form" : "emale"
+    }, {
+      "title" : "命令形",
+      "form" : "emaci"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 28,
+      "form" : "e"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "在" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "存在" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "hemúl.bt\nhem.bt\naima.ar\naimq.ln\naim2.pk"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 29,
+      "form" : "emu-lu"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "如る" ]
+    }, {
+      "title" : "助詞",
+      "forms" : [ "～のようだ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "em.pk\naimu.ar\naaim.ln\nema.bt"
+    } ],
+    "variations" : [ {
+      "title" : "終止形",
+      "form" : "emulu"
+    }, {
+      "title" : "連体形",
+      "form" : "emula"
+    }, {
+      "title" : "連用形",
+      "form" : "emule"
+    }, {
+      "title" : "命令形",
+      "form" : "emuci"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 30,
+      "form" : "i"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "等" ]
+    }, {
+      "title" : "助詞",
+      "forms" : [ "～ら", "～など" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "i.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 31,
+      "form" : "i-lu"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "心る" ]
+    }, {
+      "title" : "助詞",
+      "forms" : [ "～したい", "～だろう", "～させる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "意思、推量、使役など意識を表す。"
+    }, {
+      "title" : "同根語",
+      "text" : "hia1.pk\nhiya.ar\nriya.ln\nheyáúḷ.bt\nhíja.bt\nhabt\nrijúḷ.bt\n"
+    } ],
+    "variations" : [ {
+      "title" : "終止形",
+      "form" : "ilu"
+    }, {
+      "title" : "連体形",
+      "form" : "ila"
+    }, {
+      "title" : "連用形",
+      "form" : "ile"
+    }, {
+      "title" : "命令形",
+      "form" : "ici"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 32,
+      "form" : "ija"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "心" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "心" ]
+    }, {
+      "title" : "用言",
+      "forms" : [ "(-luで)思う" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "hia1.pk\nhiya.ar\nriya.ln\nheyáúḷ.bt\nhíja.bt\nhabt\nrijúḷ.bt\n"
+    } ],
+    "variations" : [ {
+      "title" : "終止形",
+      "form" : "ijalu"
+    }, {
+      "title" : "連体形",
+      "form" : "ijala"
+    }, {
+      "title" : "連用形",
+      "form" : "ijale"
+    }, {
+      "title" : "命令形",
+      "form" : "ijaci"
+    } ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "aeiuopbmcstdnlkgjwrx",
