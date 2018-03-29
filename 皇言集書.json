@@ -15,6 +15,9 @@
     "contents" : [ {
       "title" : "用法",
       "text" : "一般的な一人称代名詞である。"
+    }, {
+      "title" : "同根語",
+      "text" : "nau.ar"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -42,7 +45,7 @@
       "text" : "代表的な二人称代名詞である。"
     }, {
       "title" : "同根語",
-      "text" : "mua2.pk"
+      "text" : "mua2.pk\náma.bt\namua.ar"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -440,7 +443,10 @@
       "forms" : [ "足" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "xisa.ar\nxi1.pk"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -782,7 +788,7 @@
       "text" : "意思、推量、使役など意識を表す。"
     }, {
       "title" : "同根語",
-      "text" : "hia1.pk\nhiya.ar\nriya.ln\nheyáúḷ.bt\nhíja.bt\nhabt\nrijúḷ.bt\n"
+      "text" : "hia1.pk\nhiya.ar\nriya.ln\nheyáúḷ.bt\nhíja.bt\nha.bt\nrijúḷ.bt\n"
     } ],
     "variations" : [ {
       "title" : "終止形",
