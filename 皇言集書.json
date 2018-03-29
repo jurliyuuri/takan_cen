@@ -1,0 +1,503 @@
+{
+  "words" : [ {
+    "entry" : {
+      "id" : 1,
+      "form" : "no"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "我" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "わたし", "私" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "一般的な一人称代名詞である。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 2,
+        "form" : "ma"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 2,
+      "form" : "ma"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "汝" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "あなた", "貴方" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "代表的な二人称代名詞である。"
+    }, {
+      "title" : "同根語",
+      "text" : "mua2.pk"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 1,
+        "form" : "no"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 3,
+      "form" : "a"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "あ", "噫" ]
+    }, {
+      "title" : "叫詞",
+      "forms" : [ "ああ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "a.pk\ná.bt\nhá.bt"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4,
+      "form" : "a"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "あ", "之" ]
+    }, {
+      "title" : "助詞",
+      "forms" : [ "～の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "a.ar\na.pk\nanl.ln\n-án.bt"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5,
+      "form" : "ac-u"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "能す" ]
+    }, {
+      "title" : "助詞",
+      "forms" : [ "～できる", "～される" ]
+    } ],
+    "tags" : [ "為活用" ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "受身、自発、可能など無意識にできることを示す。"
+    }, {
+      "title" : "同根語",
+      "text" : "acau.ar\nácahúḷ.bt"
+    } ],
+    "variations" : [ {
+      "title" : "終止形",
+      "form" : "acu"
+    }, {
+      "title" : "連体形",
+      "form" : "acula"
+    }, {
+      "title" : "連用形",
+      "form" : "aco"
+    }, {
+      "title" : "命令形",
+      "form" : "aci"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 6,
+      "form" : "aci-lu"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "辿る" ]
+    }, {
+      "title" : "用言",
+      "forms" : [ "たどる", "なぞる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "acii.ar\naccúḷ.bt\nacii.ln"
+    } ],
+    "variations" : [ {
+      "title" : "終止形",
+      "form" : "acilu"
+    }, {
+      "title" : "連体形",
+      "form" : "acila"
+    }, {
+      "title" : "連用形",
+      "form" : "acile"
+    }, {
+      "title" : "命令形",
+      "form" : "acici"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 7,
+      "form" : "ai"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "冠" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "冠", "かんむり" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "ai2.pk"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 8,
+      "form" : "eka"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "光" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "光" ]
+    }, {
+      "title" : "用言",
+      "forms" : [ "(-luで)光る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "aik2.pk\nraikqt.ln\naika.ar\nkád.bt\nkádúḷ.bt\nek.bt"
+    } ],
+    "variations" : [ {
+      "title" : "終止形",
+      "form" : "ekalu"
+    }, {
+      "title" : "連体形",
+      "form" : "ekala"
+    }, {
+      "title" : "連用形",
+      "form" : "ekale"
+    }, {
+      "title" : "命令形",
+      "form" : "ekaci"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 9,
+      "form" : "asi"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "一" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "一", "いち", "1" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 10,
+      "form" : "ata"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "加た" ]
+    }, {
+      "title" : "助詞",
+      "forms" : [ "～と" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 11,
+      "form" : "ata"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "タカン語を漢字かな交じり表記したものを書く。" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "目" ]
+    }, {
+      "title" : "用言",
+      "forms" : [ "(-luで)見る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "ta1.pk\nata.ar\nadha.bt\nqtaa.ln"
+    } ],
+    "variations" : [ {
+      "title" : "終止形",
+      "form" : "atalu"
+    }, {
+      "title" : "連体形",
+      "form" : "atala"
+    }, {
+      "title" : "連用形",
+      "form" : "atale"
+    }, {
+      "title" : "命令形",
+      "form" : "ataci"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 12,
+      "form" : "c-u"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "為" ]
+    }, {
+      "title" : "用言",
+      "forms" : [ "する" ]
+    } ],
+    "tags" : [ "為活用" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "zau.pk\nchauchu.ar\nzúḷ.bt\nzau.ln"
+    } ],
+    "variations" : [ {
+      "title" : "終止形",
+      "form" : "cu"
+    }, {
+      "title" : "連体形",
+      "form" : "cula"
+    }, {
+      "title" : "連用形",
+      "form" : "co"
+    }, {
+      "title" : "命令形",
+      "form" : "ci"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 13,
+      "form" : "ca"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "女" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "女" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "sa1.pk\nusa.ar\n-sa.ar\nsá.bt\nsa.ln"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 14,
+      "form" : "cac-u"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "恒す" ]
+    }, {
+      "title" : "用言",
+      "forms" : [ "永遠である" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "caxou.ar"
+    } ],
+    "variations" : [ {
+      "title" : "終止形",
+      "form" : "cacu"
+    }, {
+      "title" : "連体形",
+      "form" : "caca"
+    }, {
+      "title" : "連用形",
+      "form" : "cace"
+    }, {
+      "title" : "命令形",
+      "form" : "caci"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 15,
+      "form" : "cema"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "言" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "言語" ]
+    }, {
+      "title" : "用言",
+      "forms" : [ "(-luで)言う", "話す" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "zepha.bt\ncepatepa.bt\nchepo.ar\nzep1.pk"
+    } ],
+    "variations" : [ {
+      "title" : "終止形",
+      "form" : "cemalu"
+    }, {
+      "title" : "連体形",
+      "form" : "cemala"
+    }, {
+      "title" : "連用形",
+      "form" : "cemale"
+    }, {
+      "title" : "命令形",
+      "form" : "cemaci"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 16,
+      "form" : "cemo"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "月" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "月" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "xemo.ar\nxqmo.ln\nxem1.pk"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 17,
+      "form" : "cik-u"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "席く", "座く" ]
+    }, {
+      "title" : "用言",
+      "forms" : [ "座る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "ciwi.ar\ncikau,ar\ncy2.pk\nṣíkahúḷ.bt"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 18,
+      "form" : "cisa"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "足" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "足" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  } ],
+  "zpdic" : {
+    "alphabetOrder" : "aeiuopbmcstdnlkgjwrx",
+    "alphabetOrderType" : "CUSTOM",
+    "punctuations" : [ ",", "、" ],
+    "pronunciationTitle" : null,
+    "plainInformationTitles" : [ ],
+    "informationTitleOrder" : null,
+    "defaultWord" : {
+      "entry" : {
+        "id" : -1,
+        "form" : ""
+      },
+      "translations" : [ {
+        "title" : "漢字仮名混じり転写",
+        "forms" : [ "タカン語を漢字かな交じり表記したものを書く。" ]
+      }, {
+        "title" : "体言",
+        "forms" : [ "" ]
+      }, {
+        "title" : "用言",
+        "forms" : [ "" ]
+      }, {
+        "title" : "叫詞",
+        "forms" : [ "" ]
+      }, {
+        "title" : "助詞",
+        "forms" : [ "" ]
+      } ],
+      "tags" : [ ],
+      "contents" : [ {
+        "title" : "用法",
+        "text" : ""
+      }, {
+        "title" : "同根語",
+        "text" : ""
+      }, {
+        "title" : "例文",
+        "text" : ""
+      } ],
+      "variations" : [ {
+        "title" : "終止形",
+        "form" : ""
+      }, {
+        "title" : "連体形",
+        "form" : ""
+      }, {
+        "title" : "連用形",
+        "form" : ""
+      }, {
+        "title" : "命令形",
+        "form" : ""
+      } ],
+      "relations" : [ ]
+    }
+  },
+  "snoj" : "###takan\ncon1 = \"p\" | \"b\" | \"m\" | \"n\" | \"l\" | \"k\" | \"g\"\n\n##allophone\ncon1 \"\" \"i\" -> $ /ʲ/ /i/\n\"ci\" -> /ɕi/; \"si\" -> /ʑi/; \"ti\" -> /tɕi/; \"di\" -> /ʑi/\n\"tu\" -> /tsɯ/; \"du\" -> /zɯ/\n#n\n\"n\" (\"p\" | \"b\" | \"m\") -> /m/ $; \"n\" (\"t\" | \"d\" | \"n\") -> /n/ $; \"n\" (\"k\" | \"g\") -> /ŋ/ $;\nvowel \"n\" -> $ / ̃/\n#x\n\"x\" -> /ː/\n#r\n\"r\" -> /ː/\n\n##consonant_all\n\"p\" -> /p/; \"b\" -> /b/; \"m\" -> /m/\n\"c\" -> /s/; \"s\" -> /z/;\n\"t\" -> /t/; \"d\" -> /d/; \"n\" -> /n/; \"l\" -> /ɾ/;\n\"k\" -> /k/; \"g\" -> /g/; \n\"j\" -> /j/; \"w\" -> /ɰ/\n\n##vowel_all\n\"a\" -> /a/; \"e\" -> /e/; \"i\" -> /i/;  \"u\" -> /ɯ/; \"o\" -> /o/"
+}
