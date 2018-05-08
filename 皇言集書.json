@@ -152,7 +152,7 @@
       "form" : "acila"
     }, {
       "title" : "連用形",
-      "form" : "acile"
+      "form" : "aci"
     }, {
       "title" : "命令形",
       "form" : "acici"
@@ -576,7 +576,7 @@
       "form" : "cosala"
     }, {
       "title" : "連用形",
-      "form" : "cosale"
+      "form" : "cosa"
     }, {
       "title" : "命令形",
       "form" : "cosaci"
@@ -695,7 +695,7 @@
       "form" : "emala"
     }, {
       "title" : "連用形",
-      "form" : "emale"
+      "form" : "ema"
     }, {
       "title" : "命令形",
       "form" : "emaci"
@@ -745,7 +745,7 @@
       "form" : "emula"
     }, {
       "title" : "連用形",
-      "form" : "emule"
+      "form" : "emu"
     }, {
       "title" : "命令形",
       "form" : "emuci"
@@ -798,7 +798,7 @@
       "form" : "ila"
     }, {
       "title" : "連用形",
-      "form" : "ile"
+      "form" : "i"
     }, {
       "title" : "命令形",
       "form" : "ici"
