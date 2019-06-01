@@ -2460,6 +2460,117 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 113,
+      "form" : "kijacuka"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "日来之" ]
+    }, {
+      "title" : "人名",
+      "forms" : [ "キヤスカ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 114,
+      "form" : "mon"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "米" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "米" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "mo1.pk"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 115,
+      "form" : "monatadu"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "米之集" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "おにぎり" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "炊いた飯を固めたものの塩握りが多く食される。具が入ったものはリパラオネ系が作ったものであり、タカン文化では食されない。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 116,
+      "form" : "namana"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "なまな" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "死神", "死の神", "ナマナ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "語源不明。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 117,
+      "form" : "namo"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "水道" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "ナモ" ]
+    } ],
+    "tags" : [ "牌語借用" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "ラネーメ王朝時代に制定されていた地域区分及び同地を通る幹線道路。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 118,
+      "form" : "uomuka"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "墨風" ]
+    }, {
+      "title" : "人名",
+      "forms" : [ "ウオムカ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "PMCFアイル共和国タカン自治区に本拠地を置く大手自動車企業の名前でもある。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "aeiuopbmcstdnlkgjwrx",
