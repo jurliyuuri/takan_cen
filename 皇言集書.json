@@ -407,7 +407,19 @@
       "title" : "同根語",
       "text" : "ciwi.ar\ncikau,ar\ncy2.pk\nṣíkahúḷ.bt"
     } ],
-    "variations" : [ ],
+    "variations" : [ {
+      "title" : "終止形",
+      "form" : "ciku"
+    }, {
+      "title" : "連体形",
+      "form" : "cika"
+    }, {
+      "title" : "連用形",
+      "form" : "cike"
+    }, {
+      "title" : "命令形",
+      "form" : "ciki"
+    } ],
     "relations" : [ ]
   }, {
     "entry" : {
@@ -431,7 +443,7 @@
   }, {
     "entry" : {
       "id" : 19,
-      "form" : "cuk-u"
+      "form" : "cak-u"
     },
     "translations" : [ {
       "title" : "漢字仮名混じり転写",
@@ -447,16 +459,16 @@
     } ],
     "variations" : [ {
       "title" : "終止形",
-      "form" : "cuku"
+      "form" : "caku"
     }, {
       "title" : "連体形",
-      "form" : "cuka"
+      "form" : "caka"
     }, {
       "title" : "連用形",
-      "form" : "cuke"
+      "form" : "cake"
     }, {
       "title" : "命令形",
-      "form" : "cuki"
+      "form" : "caki"
     } ],
     "relations" : [ ]
   }, {
@@ -646,14 +658,14 @@
   }, {
     "entry" : {
       "id" : 27,
-      "form" : "ema-lu"
+      "form" : "(e)ema-lu"
     },
     "translations" : [ {
       "title" : "漢字仮名混じり転写",
       "forms" : [ "在る" ]
     }, {
-      "title" : "用言",
-      "forms" : [ "在る" ]
+      "title" : "補助用言",
+      "forms" : [ "〜している" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -662,16 +674,16 @@
     } ],
     "variations" : [ {
       "title" : "終止形",
-      "form" : "emalu"
+      "form" : "eemalu"
     }, {
       "title" : "連体形",
-      "form" : "emala"
+      "form" : "eemala"
     }, {
       "title" : "連用形",
-      "form" : "ema"
+      "form" : "eema"
     }, {
       "title" : "命令形",
-      "form" : "emaci"
+      "form" : "eemaci"
     } ],
     "relations" : [ ]
   }, {
@@ -1084,7 +1096,10 @@
       "forms" : [ "これ" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "属格では用いず、代わりにkaが用いられる。"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2570,6 +2585,230 @@
       "text" : "PMCFアイル共和国タカン自治区に本拠地を置く大手自動車企業の名前でもある。"
     } ],
     "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 119,
+      "form" : "tulijo"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "つりよ" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "土手" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 120,
+      "form" : "ema-lu"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "在る" ]
+    }, {
+      "title" : "用言",
+      "forms" : [ "在る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "hemúl.bt\nhem.bt\naima.ar\naimq.ln\naim2.pk"
+    } ],
+    "variations" : [ {
+      "title" : "終止形",
+      "form" : "emalu"
+    }, {
+      "title" : "連体形",
+      "form" : "emala"
+    }, {
+      "title" : "連用形",
+      "form" : "ema"
+    }, {
+      "title" : "命令形",
+      "form" : "emaci"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 121,
+      "form" : "mouwa"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "別而" ]
+    }, {
+      "title" : "接続助詞",
+      "forms" : [ "しかし" ]
+    } ],
+    "tags" : [ "牌語借用" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 122,
+      "form" : "mormor-lu"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "行行る" ]
+    }, {
+      "title" : "用言",
+      "forms" : [ "次第に増加する" ]
+    }, {
+      "title" : "用言",
+      "forms" : [ "(連用形で)だんだん" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ {
+      "title" : "終止形",
+      "form" : "mormorlu"
+    }, {
+      "title" : "連体形",
+      "form" : "mormorla"
+    }, {
+      "title" : "連用形",
+      "form" : "mormor"
+    }, {
+      "title" : "命令形",
+      "form" : "momorci"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 123,
+      "form" : "kaga"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "時" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "時", "〜回" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 124,
+      "form" : "aku"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "書" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "本", "書籍" ]
+    } ],
+    "tags" : [ "牌語借用" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 125,
+      "form" : "kaccen"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "互言" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "会話" ]
+    } ],
+    "tags" : [ "牌語借用" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 126,
+      "form" : "ar"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "あ", "噫" ]
+    }, {
+      "title" : "叫詞",
+      "forms" : [ "ああ", "えっと" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "a.pk\ná.bt\nhá.bt"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 127,
+      "form" : "ka"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "此" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "これ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 128,
+      "form" : "sisitu"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "使術" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "使い方" ]
+    } ],
+    "tags" : [ "牌語借用" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 129,
+      "form" : "imik-u"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "思く" ]
+    }, {
+      "title" : "用言",
+      "forms" : [ "思う", "考える" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "imika.ar"
+    } ],
+    "variations" : [ {
+      "title" : "終止形",
+      "form" : "imiku"
+    }, {
+      "title" : "連体形",
+      "form" : "imika"
+    }, {
+      "title" : "連用形",
+      "form" : "imike"
+    }, {
+      "title" : "命令形",
+      "form" : "imiki"
+    } ],
     "relations" : [ ]
   } ],
   "zpdic" : {
