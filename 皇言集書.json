@@ -2810,6 +2810,25 @@
       "form" : "imiki"
     } ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 130,
+      "form" : "moga"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "色" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "色", "様子" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "pok.pk\npoga.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "aeiuopbmcstdnlkgjwrx",
