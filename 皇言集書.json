@@ -2829,6 +2829,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 131,
+      "form" : "kuwi"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "傷" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "傷" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "gui2.pk\nngui.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "aeiuopbmcstdnlkgjwrx",
