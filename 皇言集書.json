@@ -2848,6 +2848,37 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 132,
+      "form" : "na-lu"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "静" ]
+    }, {
+      "title" : "用言",
+      "forms" : [ "静かだ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "anaa.ar\nna1.pk"
+    } ],
+    "variations" : [ {
+      "title" : "終止形",
+      "form" : "nalu"
+    }, {
+      "title" : "連体形",
+      "form" : "nala"
+    }, {
+      "title" : "連用形",
+      "form" : "na"
+    }, {
+      "title" : "命令形",
+      "form" : "naci"
+    } ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "aeiuopbmcstdnlkgjwrx",
