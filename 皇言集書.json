@@ -2855,10 +2855,10 @@
     },
     "translations" : [ {
       "title" : "漢字仮名混じり転写",
-      "forms" : [ "静" ]
+      "forms" : [ "静る" ]
     }, {
       "title" : "用言",
-      "forms" : [ "静かだ" ]
+      "forms" : [ "静かだ", "静かな" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
