@@ -2879,6 +2879,22 @@
       "form" : "naci"
     } ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 133,
+      "form" : "tanna"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "皇水" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "タンナ（マナナ島とタカン島の間の海域）" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "aeiuopbmcstdnlkgjwrx",
