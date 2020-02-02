@@ -2895,6 +2895,25 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 134,
+      "form" : "kjabetu"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "心圧" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "心が圧されること", "ヒャーベッ" ]
+    } ],
+    "tags" : [ "牌語借用" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "皇論において忌まれる。パイグから借用したのは音のみであり、語形はタカン側で成立したものと思われる。kjabetuという単語自体はタカンからパイグhia1 bet2へと借用された。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "aeiuopbmcstdnlkgjwrx",
