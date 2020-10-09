@@ -1,0 +1,73 @@
+[{
+    "entry" : {
+      "id" : 133,
+      "form" : "tomu"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "島" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "島" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "dop'iai.ar\ndop1.pk"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 134,
+      "form" : "inin-u"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "小ぬ" ]
+    }, {
+      "title" : "用言",
+      "forms" : [ "小さい" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "ininu.ar\nni1.pk"
+    } ],
+    "variations" : [ {
+      "title" : "終止形",
+      "form" : "ininu"
+    }, {
+      "title" : "連体形",
+      "form" : "inina"
+    }, {
+      "title" : "連用形",
+      "form" : "inine"
+    }, {
+      "title" : "命令形",
+      "form" : "inini"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 135,
+      "form" : "cune"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "論" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "証拠", "論", "争点", "宗教" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "takama cune （皇論）"
+    }, {
+      "title" : "同根語",
+      "text" : "zunaii.ar zuhio.ar\nzui2.pk"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  } ]
