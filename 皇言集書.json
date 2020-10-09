@@ -2986,6 +2986,126 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 138,
+      "form" : "ailu"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "冠" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "アイル共和国" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "ai'r.li\nair.ar\nai2.pk\nail.pm\nailil.pm\n"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 139,
+      "form" : "ailucuka"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "冠人" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "アイル人" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 140,
+      "form" : "wepica"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "淮" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "ヴェフィス共和国" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 141,
+      "form" : "wepicacuka"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "何人" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "誰" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 142,
+      "form" : "momecak-u"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "受く" ]
+    }, {
+      "title" : "用言",
+      "forms" : [ "もらう", "得る", "受ける" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ {
+      "title" : "終止形",
+      "form" : "momecak-u"
+    }, {
+      "title" : "連体形",
+      "form" : "momecak-a"
+    }, {
+      "title" : "連用形",
+      "form" : "momecak-e"
+    }, {
+      "title" : "命令形",
+      "form" : "momecak-i"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 143,
+      "form" : "momemok-u"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "与る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ {
+      "title" : "終止形",
+      "form" : "momemok-u"
+    }, {
+      "title" : "連体形",
+      "form" : "momemok-a"
+    }, {
+      "title" : "連用形",
+      "form" : "momemok-e"
+    }, {
+      "title" : "命令形",
+      "form" : "momemok-i"
+    } ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "aeiuopbmcstdnlkgjwrx",
