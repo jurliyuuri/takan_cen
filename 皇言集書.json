@@ -3106,6 +3106,129 @@
       "form" : "momemok-i"
     } ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 144,
+      "form" : "cetageka"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "机戦" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "机戦", "パイグ将棋" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 145,
+      "form" : "mekacuka"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "牌人" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "パイグ人" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "pek2 cuk2.pk"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 146,
+      "form" : "cokaga"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "古" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "古い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "sau2 kak.pk\n"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 147,
+      "form" : "belepisi"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "べれぴし" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "遊び", "ゲーム" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "belpic.pk\nbelfez.li"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 148,
+      "form" : "ket-u"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "善つ" ]
+    }, {
+      "title" : "用言",
+      "forms" : [ "良い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "kait.pk\nkaisa.ar"
+    } ],
+    "variations" : [ {
+      "title" : "終止形",
+      "form" : "ketu"
+    }, {
+      "title" : "連体形",
+      "form" : "keta"
+    }, {
+      "title" : "連用形",
+      "form" : "kete"
+    }, {
+      "title" : "命令形",
+      "form" : "keti"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 149,
+      "form" : "maka"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "値" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "数", "値" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "mak2.pk\nbágha.bt"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "aeiuopbmcstdnlkgjwrx",
