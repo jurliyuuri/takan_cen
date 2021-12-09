@@ -118,7 +118,7 @@
       "form" : "acu"
     }, {
       "title" : "連体形",
-      "form" : "acula"
+      "form" : "acola"
     }, {
       "title" : "連用形",
       "form" : "aco"
@@ -281,7 +281,7 @@
       "form" : "cu"
     }, {
       "title" : "連体形",
-      "form" : "cula"
+      "form" : "cola"
     }, {
       "title" : "連用形",
       "form" : "co"
@@ -3227,6 +3227,386 @@
       "title" : "同根語",
       "text" : "mak2.pk\nbágha.bt"
     } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 150,
+      "form" : "konna"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "豆水" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "豆から得られる液体" ]
+    } ],
+    "tags" : [ "牌語借用" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 151,
+      "form" : "tanke"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "皇処" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "机戦において駒の動きが変わる場所" ]
+    } ],
+    "tags" : [ "牌語借用" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 152,
+      "form" : "kengjadatu"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "地心集" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "文化省" ]
+    } ],
+    "tags" : [ "牌語借用" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 153,
+      "form" : "mogakug-u"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "色付ぐ" ]
+    }, {
+      "title" : "用言",
+      "forms" : [ "色を付ける" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ {
+      "title" : "終止形",
+      "form" : "mogakugu"
+    }, {
+      "title" : "連体形",
+      "form" : "mogakuga"
+    }, {
+      "title" : "連用形",
+      "form" : "mogakuge"
+    }, {
+      "title" : "命令形",
+      "form" : "mogakugi"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 154,
+      "form" : "cima"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "国" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "国" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "sip1.pk\nsíbha.bt, ṣibhai.bt\nsip'ui.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 155,
+      "form" : "linman"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "清字" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "燐字", "燐帝字母" ]
+    } ],
+    "tags" : [ "牌語借用" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 156,
+      "form" : "takan=cen"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "皇言" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "タカン語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 157,
+      "form" : "(i)ja-lu"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "心る" ]
+    }, {
+      "title" : "補助用言",
+      "forms" : [ "～したい", "～するつもりだ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "意志・欲求などを表す。"
+    }, {
+      "title" : "同根語",
+      "text" : "hia1.pk\nhiya.ar\nriya.ln\nheyáúḷ.bt\nhíja.bt\nha.bt\nrijúḷ.bt"
+    } ],
+    "variations" : [ {
+      "title" : "終止形",
+      "form" : "ijalu"
+    }, {
+      "title" : "連体形",
+      "form" : "ijala"
+    }, {
+      "title" : "連用形",
+      "form" : "ija"
+    }, {
+      "title" : "命令形",
+      "form" : "ijaci"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 158,
+      "form" : "nonenin-u"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "刺ぬ" ]
+    }, {
+      "title" : "用言",
+      "forms" : [ "刺す" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "naunilorúḷ.bt"
+    } ],
+    "variations" : [ {
+      "title" : "終止形",
+      "form" : "noneninu"
+    }, {
+      "title" : "連体形",
+      "form" : "nonenina"
+    }, {
+      "title" : "連用形",
+      "form" : "nonenine"
+    }, {
+      "title" : "命令形",
+      "form" : "nonenini"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 159,
+      "form" : "kug-u"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "付ぐ" ]
+    }, {
+      "title" : "用言",
+      "forms" : [ "付ける" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "kun2.pk, kunge.ar"
+    } ],
+    "variations" : [ {
+      "title" : "終止形",
+      "form" : "kugu"
+    }, {
+      "title" : "連体形",
+      "form" : "kuga"
+    }, {
+      "title" : "連用形",
+      "form" : "kuge"
+    }, {
+      "title" : "命令形",
+      "form" : "kugi"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 160,
+      "form" : "kewa-lu"
+    },
+    "translations" : [ {
+      "title" : "用言",
+      "forms" : [ "鋳込む", "型にはめる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "gháyoúḷ.bt, ngaiweo.ar"
+    } ],
+    "variations" : [ {
+      "title" : "終止形",
+      "form" : "kewalu"
+    }, {
+      "title" : "連体形",
+      "form" : "kewala"
+    }, {
+      "title" : "連用形",
+      "form" : "kewata"
+    }, {
+      "title" : "命令形",
+      "form" : "kewaci"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 161,
+      "form" : "kugecema-lu"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "付言る" ]
+    }, {
+      "title" : "用言",
+      "forms" : [ "言い伝える" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ {
+      "title" : "終止形",
+      "form" : "kugecemalu"
+    }, {
+      "title" : "連体形",
+      "form" : "kugecemala"
+    }, {
+      "title" : "連用形",
+      "form" : "kugecema"
+    }, {
+      "title" : "命令形",
+      "form" : "kugecemaci"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 162,
+      "form" : "cula"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "為ら" ]
+    } ],
+    "tags" : [ "方言" ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "cu の連体形 cola の北方方言。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 163,
+      "form" : "acula"
+    },
+    "translations" : [ ],
+    "tags" : [ "方言" ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "acu の連体形 acola の北方方言。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 164,
+      "form" : "canenit-u"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "識ね入つ" ]
+    }, {
+      "title" : "用言",
+      "forms" : [ "学ぶ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ {
+      "title" : "終止形",
+      "form" : "canenitu"
+    }, {
+      "title" : "連体形",
+      "form" : "canenita"
+    }, {
+      "title" : "連用形",
+      "form" : "canenite"
+    }, {
+      "title" : "命令形",
+      "form" : "caneniti"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 165,
+      "form" : "tad-u"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "集づ" ]
+    }, {
+      "title" : "用言",
+      "forms" : [ "集まる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ {
+      "title" : "終止形",
+      "form" : "tadu"
+    }, {
+      "title" : "連体形",
+      "form" : "tada"
+    }, {
+      "title" : "連用形",
+      "form" : "tade"
+    }, {
+      "title" : "命令形",
+      "form" : "tadi"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 166,
+      "form" : "kijakaga"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "日時" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "日中", "昼" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   } ],
