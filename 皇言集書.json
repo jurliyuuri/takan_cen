@@ -1996,10 +1996,10 @@
     },
     "translations" : [ {
       "title" : "漢字仮名混じり転写",
-      "forms" : [ "那" ]
+      "forms" : [ "那", "彼" ]
     }, {
       "title" : "体言",
-      "forms" : [ "あれ" ]
+      "forms" : [ "あれ", "かれ", "彼", "あの人", "彼女" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -3150,7 +3150,7 @@
       "title" : "漢字仮名混じり転写",
       "forms" : [ "古" ]
     }, {
-      "title" : "体言",
+      "title" : "修飾性体言",
       "forms" : [ "古い" ]
     } ],
     "tags" : [ ],
@@ -3607,6 +3607,127 @@
     } ],
     "tags" : [ ],
     "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 167,
+      "form" : "cutu"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "天" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "天", "空" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 168,
+      "form" : "asu"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "石" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "石" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "asíjaúḷ.bt, asiu.ar, sy2.pk"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 169,
+      "form" : "nimalane"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "哩" ]
+    }, {
+      "title" : "修飾性体言",
+      "forms" : [ "リパライン語の", "リパラオネの" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 170,
+      "form" : "takamacuka"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "皇人" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "タカン人" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 171,
+      "form" : "sornike"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "上学処" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "大学" ]
+    } ],
+    "tags" : [ "牌語借用" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 172,
+      "form" : "bepicasornike"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "淮上学処" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "ヴェフィス国立研究院大学" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "通常、ヴェフィスを表す語は wepica だが、この大学名では bepica とする。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 173,
+      "form" : "inucalita"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "川入" ]
+    }, {
+      "title" : "地名",
+      "forms" : [ "イヌサリタ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "アイル共和国イヌシ郡の主要都市。"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   } ],
