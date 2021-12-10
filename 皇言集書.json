@@ -511,9 +511,6 @@
       "title" : "漢字仮名混じり転写",
       "forms" : [ "積む" ]
     }, {
-      "title" : "体言",
-      "forms" : [ "(-aで)堤" ]
-    }, {
       "title" : "用言",
       "forms" : [ "積む" ]
     } ],
@@ -3728,6 +3725,22 @@
       "title" : "文化",
       "text" : "アイル共和国イヌシ郡の主要都市。"
     } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 174,
+      "form" : "coma"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "積" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "堤" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   } ],
