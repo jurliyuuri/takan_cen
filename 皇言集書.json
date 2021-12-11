@@ -668,6 +668,9 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "hemúl.bt\nhem.bt\naima.ar\naimq.ln\naim2.pk"
+    }, {
+      "title" : "文化",
+      "text" : "近代語。現代では稀。"
     } ],
     "variations" : [ {
       "title" : "終止形",
@@ -3738,6 +3741,92 @@
     }, {
       "title" : "体言",
       "forms" : [ "堤" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 175,
+      "form" : "mo"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "道" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "道" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 176,
+      "form" : "makati"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "天神" ]
+    }, {
+      "title" : "地名",
+      "forms" : [ "マカティ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "アイル共和国の首都。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 177,
+      "form" : "mug-u"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "獣ぐ" ]
+    }, {
+      "title" : "用言",
+      "forms" : [ "醜い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "bháṇúḷ.bt"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 178,
+      "form" : "tonir"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "とにー" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "リパラオネ教の神・神族" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 179,
+      "form" : "tarpu"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "たーぷ" ]
+    }, {
+      "title" : "人名",
+      "forms" : [ "ターフ" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
