@@ -3832,6 +3832,25 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 180,
+      "form" : "linecita"
+    },
+    "translations" : [ {
+      "title" : "漢字仮名混じり転写",
+      "forms" : [ "清た" ]
+    }, {
+      "title" : "体言",
+      "forms" : [ "リナエスト・オルス共和国" ]
+    }, {
+      "title" : "修飾性体言",
+      "forms" : [ "リナエストの" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "aeiuopbmcstdnlkgjwrx",
